@@ -1,6 +1,5 @@
 from behave import *
 from src.RectangleDrawer import RectangleDrawer
-from assertpy import *
 
 
 @given('there is a rectangle drawer')
